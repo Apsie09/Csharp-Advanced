@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.exe
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.deps.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.runtimeconfig.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\bin\Debug\net6.0\MaxAndMinElement.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.AssemblyInfo.cs
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\refint\MaxAndMinElement.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\MaxAndMinElement.genruntimeconfig.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad3\MaxAndMinElement\MaxAndMinElement\obj\Debug\net6.0\ref\MaxAndMinElement.dll
