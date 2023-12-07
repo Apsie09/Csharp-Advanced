@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.exe
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.deps.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.runtimeconfig.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\bin\Debug\net6.0\BasicQueueOperations.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.AssemblyInfo.cs
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\refint\BasicQueueOperations.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\BasicQueueOperations.genruntimeconfig.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad2\BasicQueueOperations\BasicQueueOperations\obj\Debug\net6.0\ref\BasicQueueOperations.dll
