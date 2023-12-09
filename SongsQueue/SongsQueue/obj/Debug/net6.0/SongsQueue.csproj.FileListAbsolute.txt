@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.AssemblyInfo.cs
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\bin\Debug\net6.0\SongsQueue.exe
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\bin\Debug\net6.0\SongsQueue.deps.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\bin\Debug\net6.0\SongsQueue.runtimeconfig.json
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\bin\Debug\net6.0\SongsQueue.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\bin\Debug\net6.0\SongsQueue.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\refint\SongsQueue.dll
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.pdb
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\SongsQueue.genruntimeconfig.cache
+C:\Users\Asen\source\repos\StacksQueuesHW - Exercises\zad6\SongsQueue\SongsQueue\obj\Debug\net6.0\ref\SongsQueue.dll
