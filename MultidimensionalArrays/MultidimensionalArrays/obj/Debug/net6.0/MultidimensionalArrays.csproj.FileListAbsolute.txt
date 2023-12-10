@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\MultidimensionalArrays.exe
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\MultidimensionalArrays.deps.json
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\MultidimensionalArrays.dll
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\net6.0\MultidimensionalArrays.pdb
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.dll
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\refint\MultidimensionalArrays.dll
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.pdb
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\MultidimensionalArrays.genruntimeconfig.cache
+C:\Users\Asen\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\net6.0\ref\MultidimensionalArrays.dll
