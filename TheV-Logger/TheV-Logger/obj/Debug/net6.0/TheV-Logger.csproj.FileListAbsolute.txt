@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\bin\Debug\net6.0\TheV-Logger.exe
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\bin\Debug\net6.0\TheV-Logger.deps.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\bin\Debug\net6.0\TheV-Logger.runtimeconfig.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\bin\Debug\net6.0\TheV-Logger.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\bin\Debug\net6.0\TheV-Logger.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.AssemblyInfo.cs
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\refint\TheV-Logger.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\TheV-Logger.genruntimeconfig.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\TheV-Logger\TheV-Logger\obj\Debug\net6.0\ref\TheV-Logger.dll
