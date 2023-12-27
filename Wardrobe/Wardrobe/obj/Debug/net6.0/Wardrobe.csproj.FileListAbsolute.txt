@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.exe
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.deps.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.runtimeconfig.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\bin\Debug\net6.0\Wardrobe.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\refint\Wardrobe.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\Wardrobe.genruntimeconfig.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Wardrobe\Wardrobe\obj\Debug\net6.0\ref\Wardrobe.dll
