@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\bin\Debug\net6.0\SetsOfElements.exe
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\bin\Debug\net6.0\SetsOfElements.deps.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\bin\Debug\net6.0\SetsOfElements.runtimeconfig.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\bin\Debug\net6.0\SetsOfElements.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\bin\Debug\net6.0\SetsOfElements.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.AssemblyInfo.cs
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\refint\SetsOfElements.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\SetsOfElements.genruntimeconfig.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\SetsOfElements\SetsOfElements\obj\Debug\net6.0\ref\SetsOfElements.dll
