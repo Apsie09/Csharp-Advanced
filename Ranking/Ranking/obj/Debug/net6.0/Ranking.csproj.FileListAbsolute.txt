@@ -1,0 +1,14 @@
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\bin\Debug\net6.0\Ranking.exe
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\bin\Debug\net6.0\Ranking.deps.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\bin\Debug\net6.0\Ranking.runtimeconfig.json
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\bin\Debug\net6.0\Ranking.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\bin\Debug\net6.0\Ranking.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.AssemblyInfo.cs
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\refint\Ranking.dll
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.pdb
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\Ranking.genruntimeconfig.cache
+C:\Users\Asen\source\repos\DictionariesAndSets - Exercises\Ranking\Ranking\obj\Debug\net6.0\ref\Ranking.dll
